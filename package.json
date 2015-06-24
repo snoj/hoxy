@@ -33,7 +33,8 @@
     "mkdirp": "~0.3.5",
     "node-static": "0.7.x",
     "nodemon": "^1.0.17",
-    "route-pattern": "0.0.x"
+    "route-pattern": "0.0.x",
+    "pem": "^1.7.2"
   },
   "license": "MIT",
   "devDependencies": {
